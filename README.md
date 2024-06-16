@@ -1,26 +1,26 @@
 # Complete AWS CI/CD Pipeline Project
 
-## •CodeCommit
-## •CodeBuild
-## •CodeDeploy
-## •CodePipeline
-## •S3
+•CodeCommit
+•CodeBuild
+•CodeDeploy
+•CodePipeline
+•S3
 
-## What is CodeCommit ?
-AWS CodeCommit is a fully managed source control service that allows you to store and manage your code securely in the cloud. It provides a private Git repository for your code and supports all Git commands and workflows.
+## What is CodeCommit?
+AWS CodeCommit is a fully managed source control service that allows you to store and organize your code securely in the cloud. It provides a private Git repository for your code and supports all Git commands and workflows.
 
-## - Set up a code repository on CodeCommit and clone it on your local.
-## - Add a new file from local and commit to your local branch.
-## - Push the local changes to CodeCommit repository.
+- Set up a code repository on CodeCommit and clone it on your local.
+- Add a new file from local and commit to your local branch.
+- Push the local changes to CodeCommit repository.
 
 ![Screenshot 2024-06-15 235922](https://github.com/Deepchand123/complete-aws-cicd-pipeline/assets/108334863/876e4ae1-f27e-4471-a657-56aa78629c17)
 
-## What is CodeBuild ?
+## What is CodeBuild?
 AWS CodeBuild is a fully managed build service that compiles source code, runs tests, and produces software packages that are ready to deploy. With CodeBuild, you don’t need to worry about provisioning and managing your own build infrastructure. You simply provide your build project’s source code and build settings, and CodeBuild handles the rest.
 
-## - What is Buildspec file for Codebuild.
-## - Create a simple index.html file in CodeCommit Repository.
-## - Add buildspec.yaml file to CodeCommit Repository and complete the build process.
+- What is Buildspec file for Codebuild.
+- Create a simple index.html file in CodeCommit Repository.
+- Add buildspec.yaml file to CodeCommit Repository and complete the build process.
 
 ![Screenshot 2024-06-16 004237](https://github.com/Deepchand123/complete-aws-cicd-pipeline/assets/108334863/96b32855-5a01-4fa9-8751-3628627ccb41)
 
